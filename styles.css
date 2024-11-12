@@ -253,6 +253,9 @@ nav {
   left: 50%;
   transform: translateX(-50%);
   max-width: 150px;
+  margin: auto;
+  height: 50px;
+  width: 50px;
 }
 
 .footer__container h4 {
